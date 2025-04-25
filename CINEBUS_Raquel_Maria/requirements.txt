@@ -1,0 +1,10 @@
+requests
+yogi
+beautifulsoup4
+networkx
+osmnx
+haversine
+staticmap
+tabulate
+scikit-learn
+lxml
